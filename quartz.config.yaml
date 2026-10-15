@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-ES
   baseUrl: notas.amatoria.cl
   ignorePatterns:
     - private

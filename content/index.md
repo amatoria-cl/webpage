@@ -29,8 +29,9 @@ graph TD;
 
 Hola! Soy **Fer**, persona fundadora de **Amatoria**. Aquí te comparto algunos hitos que dieron vida a este proyecto emergente de salud sexual para Chile 💚.
 
-<iframe
-srcdoc='
+El html funciona solo hay que restringirlo para no modificar los CSS globales.
+
+```text
 <style>
   body {
     font-family: 'Roboto', sans-serif;
@@ -164,7 +165,4 @@ srcdoc='
     <p class="milestone">Primer interés por la sexología: caricaturas de órganos sexuales y el regaño de mi madre.</p>
   </div>
 </div>
-'
-
-style="width: 100%; height: 500px; border: none;"
-></iframe>
+```

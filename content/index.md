@@ -16,6 +16,8 @@ texto aquí
 4. Ejecutar instalador .msi
 5. Ejecutar en PowerShell `pandoc .\mark_text_test.md -o .\mark_text_test.docx`
 
+<div align="center">
+
 ```mermaid
 graph TD;
     A-->B;
@@ -24,3 +26,4 @@ graph TD;
     C-->D;
 ```
 
+</div>
